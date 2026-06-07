@@ -1,0 +1,46 @@
+{
+  "users": {
+    "244224536": {
+      "name": "امیررضا فلیان",
+      "username": "amirrezaf80"
+    },
+    "7480410102": {
+      "name": "امیررضا فلیان ۲",
+      "username": "mahan_teb_navar"
+    }
+  },
+  "games": [
+    {
+      "id": 1,
+      "date": "1403/03/20   چهارشنبه",
+      "time": "22:30",
+      "location": "سالن تختی",
+      "capacity": 12,
+      "cost_per_person": 25000,
+      "players": [],
+      "payment_proofs": {}
+    },
+    {
+      "id": 2,
+      "date": "شنبه   1403/03/23",
+      "time": "22:30",
+      "location": "سالن تختی",
+      "capacity": 12,
+      "cost_per_person": 25000,
+      "players": [],
+      "payment_proofs": {}
+    },
+    {
+      "id": 3,
+      "date": "چهارشنبه   1403/03/27",
+      "time": "22:30",
+      "location": "سالن تختی",
+      "capacity": 12,
+      "cost_per_person": 25000,
+      "players": [],
+      "payment_proofs": {}
+    }
+  ],
+  "next_game_id": 4,
+  "temp_reserve": {}
+}
