@@ -8,7 +8,7 @@ from flask import Flask
 
 # ============= تنظیمات اولیه =============
 TOKEN = "8900728767:AAG9Gq4nDE0gI9p6D9wxWfBw2IGRqvuNt38"
-ADMIN_PASSWORD = "1234"
+ADMIN_PASSWORD = "123412345"
 DATA_FILE = "volleyball_data.json"
 
 # ایجاد اپلیکیشن Flask برای health check
